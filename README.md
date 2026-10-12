@@ -8,7 +8,7 @@
 
 ---
 
-## TL;DR for recruiters
+## Project Overview
 
 | | |
 |---|---|
@@ -115,7 +115,7 @@ See `GUIDE.md` for the detailed walkthrough.
 
 ---
 
-## Skills demonstrated
+## Skills
 
 **Quant / statistics**: market microstructure, order-flow imbalance, normality, autocorrelation, ARCH and stationarity testing
 **Python**: pandas, NumPy, statsmodels/SciPy-style testing, Matplotlib, large-dataset processing
